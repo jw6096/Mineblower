@@ -6,7 +6,7 @@ to say that it came out very nicely.
 
 
 
-The game itself was not coded by me. I have no idea who coded it, but when this game was given to me as an assignment my task was to replace the main game sounds effects and music. You need a program called Processing in order to play the game with my music. My music files are WAV files, so you can just listen to them instead.
+The game itself was not coded by me. I have no idea who coded it, but when this game was given to me as an assignment my task was to replace the main game sounds effects and music. You need a program called Processing in order to play the game with my music. My music files are WAV files, so you can just listen to them instead. I used Ableton Live to create the music compositions.
 
 
 
